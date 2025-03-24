@@ -5,6 +5,8 @@ This repository documents my 9-month journey to learn coding and Stanford CS fun
  ## Projects
 - **Day 10: Age and Student Checker**  
   A Python program that asks for a user's age and student status, uses conditionals and error handling to print custom messages. Demonstrates logical operators (`and`, `or`, `not`) and input validation.
+- ** Day 14: Number Guessing Game**
+  A PYthon program that generates a random number, asks for user input, uses loops and conditionals with hints such as "too high" and "too low"
 
 ## How to Use
 1. Clone the repository: https://github.com/MK-green/Coding-Journey.git
